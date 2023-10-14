@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/colorpick-reactjs/static/css/main.db798329.css",
+    "main.js": "/colorpick-reactjs/static/js/main.1bffccf5.js",
+    "static/js/787.9ce76a9b.chunk.js": "/colorpick-reactjs/static/js/787.9ce76a9b.chunk.js",
+    "index.html": "/colorpick-reactjs/index.html",
+    "main.db798329.css.map": "/colorpick-reactjs/static/css/main.db798329.css.map",
+    "main.1bffccf5.js.map": "/colorpick-reactjs/static/js/main.1bffccf5.js.map",
+    "787.9ce76a9b.chunk.js.map": "/colorpick-reactjs/static/js/787.9ce76a9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db798329.css",
+    "static/js/main.1bffccf5.js"
+  ]
+}
